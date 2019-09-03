@@ -1,0 +1,41 @@
+{
+  "orderConfirmationRetrieveActionResponse" : "orderConfirmationRetrieveActionResponse",
+  "orderConfirmationRetrieveActionTaskReference" : "OCRATR771711",
+  "orderConfirmationRetrieveActionTaskRecord" : {},
+  "paymentOrderProcedureInstanceRecord" : {
+    "payerProductInstanceReference" : "793201",
+    "amount" : "USD 250",
+    "settlementInstructions" : "settlementInstructions",
+    "payeeReference" : "741852",
+    "payeeProductInstanceReference" : "706585",
+    "payerBankReference" : "731498",
+    "payeeBankReference" : "796602",
+    "paymentInstructions" : "paymentInstructions",
+    "paymentMechanismType" : "paymentMechanismType",
+    "paymentTransactionInitiatorReference" : "727818",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "payerReference" : "719399",
+    "interestedParties" : "interestedParties",
+    "currency" : "USD",
+    "productType" : "productType"
+  },
+  "orderConfirmationInstanceRecord" : {
+    "paymentOrderComplianceCheckType" : "paymentOrderComplianceCheckType",
+    "orderConfirmationTaskResult" : "orderConfirmationTaskResult",
+    "paymentOrderComplianceCheckResult" : "paymentOrderComplianceCheckResult"
+  },
+  "orderConfirmationInstanceReport" : {
+    "orderConfirmationInstanceReportRecord" : {},
+    "orderConfirmationInstanceReportParameters" : "orderConfirmationInstanceReportParameters",
+    "orderConfirmationInstanceReport" : {},
+    "orderConfirmationInstanceReportType" : "orderConfirmationInstanceReportType"
+  },
+  "orderConfirmationInstanceAnalysis" : {
+    "orderConfirmationInstanceAnalysisRecord" : {},
+    "orderConfirmationInstanceAnalysisReport" : {},
+    "orderConfirmationInstanceAnalysisParameters" : "orderConfirmationInstanceAnalysisParameters",
+    "orderConfirmationInstanceAnalysisReportType" : "orderConfirmationInstanceAnalysisReportType"
+  }
+}

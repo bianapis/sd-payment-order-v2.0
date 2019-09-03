@@ -1,0 +1,12 @@
+{
+  "paymentOrderProcedureInstanceReference" : "POPIR796094",
+  "paymentOrderProcedureInitiateActionRecord" : {},
+  "paymentOrderProcedureInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "paymentMechanismType" : "paymentMechanismType"
+  },
+  "paymentOrderProcedureInitiateActionReference" : "POPIAR748517",
+  "paymentOrderProcedureInstanceStatus" : "paymentOrderProcedureInstanceStatus"
+}

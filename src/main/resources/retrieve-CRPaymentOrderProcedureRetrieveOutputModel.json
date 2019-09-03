@@ -1,0 +1,34 @@
+{
+  "paymentOrderProcedureInstanceReportRecord" : {
+    "paymentOrderProcedureInstanceReportData" : "paymentOrderProcedureInstanceReportData",
+    "paymentOrderProcedureInstanceReport" : {},
+    "paymentOrderProcedureInstanceReportType" : "paymentOrderProcedureInstanceReportType"
+  },
+  "paymentOrderProcedureRetrieveActionTaskRecord" : {},
+  "paymentOrderProcedureRetrieveActionResponse" : "paymentOrderProcedureRetrieveActionResponse",
+  "paymentOrderProcedureInstanceRecord" : {
+    "payerProductInstanceReference" : "768444",
+    "amount" : "USD 250",
+    "settlementInstructions" : "settlementInstructions",
+    "payeeReference" : "701381",
+    "payeeProductInstanceReference" : "777856",
+    "payerBankReference" : "736853",
+    "payeeBankReference" : "764146",
+    "paymentInstructions" : "paymentInstructions",
+    "paymentMechanismType" : "paymentMechanismType",
+    "paymentTransactionInitiatorReference" : "766388",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "payerReference" : "795454",
+    "interestedParties" : "interestedParties",
+    "currency" : "USD",
+    "productType" : "productType"
+  },
+  "paymentOrderProcedureInstanceAnalysis" : {
+    "paymentOrderProcedureInstanceAnalysisData" : "paymentOrderProcedureInstanceAnalysisData",
+    "paymentOrderProcedureInstanceAnalysisReport" : {},
+    "paymentOrderProcedureInstanceAnalysisReportType" : "paymentOrderProcedureInstanceAnalysisReportType"
+  },
+  "paymentOrderProcedureRetrieveActionTaskReference" : "POPRATR786814"
+}

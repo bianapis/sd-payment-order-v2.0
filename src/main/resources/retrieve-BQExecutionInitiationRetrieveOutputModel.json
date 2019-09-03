@@ -1,0 +1,41 @@
+{
+  "executionInitiationRetrieveActionTaskRecord" : {},
+  "executionInitiationRetrieveActionResponse" : "executionInitiationRetrieveActionResponse",
+  "paymentOrderProcedureInstanceRecord" : {
+    "payerProductInstanceReference" : "707579",
+    "amount" : "USD 250",
+    "settlementInstructions" : "settlementInstructions",
+    "payeeReference" : "779257",
+    "payeeProductInstanceReference" : "756217",
+    "payerBankReference" : "709843",
+    "payeeBankReference" : "718173",
+    "paymentInstructions" : "paymentInstructions",
+    "paymentMechanismType" : "paymentMechanismType",
+    "paymentTransactionInitiatorReference" : "785681",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "payerReference" : "732594",
+    "interestedParties" : "interestedParties",
+    "currency" : "USD",
+    "productType" : "productType"
+  },
+  "executionInitiationRetrieveActionTaskReference" : "EIRATR725225",
+  "executionInitiationInstanceReport" : {
+    "executionInitiationInstanceReportType" : "executionInitiationInstanceReportType",
+    "executionInitiationInstanceReportParameters" : "executionInitiationInstanceReportParameters",
+    "executionInitiationInstanceReport" : {},
+    "executionInitiationInstanceReportRecord" : {}
+  },
+  "executionInitiationInstanceRecord" : {
+    "executionInitiationTaskResult" : "executionInitiationTaskResult",
+    "paymentExecutionProcedureInstanceReference" : "765238",
+    "paymentExecutionProcedureInstanceStatus" : "paymentExecutionProcedureInstanceStatus"
+  },
+  "executionInitiationInstanceAnalysis" : {
+    "executionInitiationInstanceAnalysisReportType" : "executionInitiationInstanceAnalysisReportType",
+    "executionInitiationInstanceAnalysisRecord" : {},
+    "executionInitiationInstanceAnalysisReport" : {},
+    "executionInitiationInstanceAnalysisParameters" : "executionInitiationInstanceAnalysisParameters"
+  }
+}

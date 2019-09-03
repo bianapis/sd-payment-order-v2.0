@@ -1,0 +1,24 @@
+{
+  "paymentOrderProcedureUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "paymentOrderProcedureInstanceRecord" : {
+    "payerProductInstanceReference" : "715096",
+    "amount" : "USD 250",
+    "settlementInstructions" : "settlementInstructions",
+    "payeeReference" : "783499",
+    "payeeProductInstanceReference" : "723004",
+    "payerBankReference" : "773567",
+    "payeeBankReference" : "742667",
+    "paymentInstructions" : "paymentInstructions",
+    "paymentMechanismType" : "paymentMechanismType",
+    "paymentTransactionInitiatorReference" : "728340",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "payerReference" : "770579",
+    "interestedParties" : "interestedParties",
+    "currency" : "USD",
+    "productType" : "productType"
+  },
+  "paymentOrderProcedureUpdateActionTaskReference" : "POPUATR764580"
+}
